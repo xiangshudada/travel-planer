@@ -16,8 +16,6 @@ With node and npm installed:
 
 The web tool can be accessed at localhost:8081
 
-![web tool running](img/website.png)
-
 ## Test
 
 `$ npm test`
@@ -31,4 +29,5 @@ are located at `/src/tests`
 * Weatherbit API
 * Pixabay API
 
-#### Udacity Front End Developer Capstone Project
+#### Udacity Front End  Project
+!!!
